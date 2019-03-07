@@ -1,1 +1,2 @@
-# EarlyAmuckter
+# 수료 프로젝트
+
