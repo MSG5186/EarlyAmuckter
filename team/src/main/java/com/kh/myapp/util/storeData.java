@@ -5,43 +5,43 @@ import java.util.ArrayList;
 public class storeData {
 
 	public ArrayList<String> getStoreList() {
-		ArrayList<String> sibal = new ArrayList<>();
-		sibal.add("CU");
-		sibal.add("GS25");
-		sibal.add("세븐일레븐");
-		sibal.add("이마트24");
-		sibal.add("MINISTOP");
-		sibal.add("스토리웨이");
-		sibal.add("개그스토리");
-		sibal.add("씨스페이스");
-		sibal.add("로그인");
+		ArrayList<String> store = new ArrayList<>();
+		store.add("CU");
+		store.add("GS25");
+		store.add("세븐일레븐");
+		store.add("이마트24");
+		store.add("MINISTOP");
+		store.add("스토리웨이");
+		store.add("개그스토리");
+		store.add("씨스페이스");
+		store.add("로그인");
 		
-		return sibal;
+		return store;
 	}
 
 	public ArrayList<String> getProductList() {
-		ArrayList<String> sibal = new ArrayList<>();
-		sibal.add("김밥");
-		sibal.add("삼각김밥");
-		sibal.add("라면");
-		sibal.add("도시락");
-		sibal.add("젤리");
-		sibal.add("초콜릿");
-		sibal.add("아이스크림");
-		sibal.add("음료");
-		sibal.add("주류");
-		sibal.add("휴지");
-		sibal.add("핫도그");
-		sibal.add("샌드위치");
-		sibal.add("햄버거");
-		sibal.add("피자");
-		sibal.add("치킨");
-		sibal.add("빵류");
-		sibal.add("토스트");
-		sibal.add("두부");
-		sibal.add("도너츠");
+		ArrayList<String> tag = new ArrayList<>();
+		tag.add("김밥");
+		tag.add("삼각김밥");
+		tag.add("라면");
+		tag.add("도시락");
+		tag.add("젤리");
+		tag.add("초콜릿");
+		tag.add("아이스크림");
+		tag.add("음료");
+		tag.add("주류");
+		tag.add("휴지");
+		tag.add("핫도그");
+		tag.add("샌드위치");
+		tag.add("햄버거");
+		tag.add("피자");
+		tag.add("치킨");
+		tag.add("빵류");
+		tag.add("토스트");
+		tag.add("두부");
+		tag.add("도너츠");
 		
-		return sibal;
+		return tag;
 	}
 	
 }
